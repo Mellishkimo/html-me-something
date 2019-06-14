@@ -1,0 +1,41 @@
+figcaption {
+    font-style: italic;
+}
+
+h1 {
+    text-align: center;
+    font-family: palatino;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 200%
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;       
+}
+
+body {
+	width: 100%;
+	max-width: 1024px;
+    margin: 0 auto;
+    font-size: 130%;
+}
+
+figure {
+	margin: 0;
+	padding: 0;
+    text-align: center;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
+
+
+div {
+    border: 5px solid lightseagreen;
+  }
+
+

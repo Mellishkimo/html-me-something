@@ -38,4 +38,12 @@ div {
     border: 5px solid lightseagreen;
   }
 
+.signature {
+    font-style: italic;
+}
+
+#title {
+    border: 5px solid red
+}
+
 
